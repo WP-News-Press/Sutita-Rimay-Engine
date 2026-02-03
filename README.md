@@ -1,20 +1,15 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+Sutita Rimay: Fact-Checking with Cultural Identity 🔍✨
+"Speak the Truth" (Quechua) | Powered by WP News
 
-# Run and deploy your AI Studio app
+Project Overview
+Sutita Rimay is the verification arm of our ecosystem. It is a specialized engine designed to identify, analyze, and debunk misinformation (Fake News) targeting the Hispanic community in the United States, specifically in the Hudson Valley area.
 
-This contains everything you need to run your app locally.
+Key Features
+Spanglish NLP: Optimized to understand the unique linguistic blend and cultural nuances of our local community.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1Iue20-5THjBC_snJvS8siiRjXp_SoZ5m
+Visual Forensic Analysis: Toolset to identify manipulated media and "fake" screenshots (like the Epstein/De Soto hoax).
 
-## Run Locally
+Actionable Truth: Every verified fact comes with a "What to do next" guide to empower the user.
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Integration
+This engine works as the "truth filter" for Hispabot. Before our AI assistant provides a resource, it ensures the information is verified through Sutita Rimay's logic.
