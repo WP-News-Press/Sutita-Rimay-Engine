@@ -1,0 +1,8 @@
+{
+  "name": "Sutita Rimay 2.0",
+  "description": "A multimodal AI ecosystem for information integrity, featuring real-time verification, forensic analysis, and deepfake detection for journalists and citizens.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
