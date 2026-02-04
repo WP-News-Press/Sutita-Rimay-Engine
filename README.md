@@ -1,15 +1,19 @@
-Sutita Rimay: Fact-Checking with Cultural Identity 🔍✨
-"Speak the Truth" (Quechua) | Powered by WP News
+# Sutita Rimay: AI Platform to Combat Disinformation 🛡️🏛️
 
-Project Overview
-Sutita Rimay is the verification arm of our ecosystem. It is a specialized engine designed to identify, analyze, and debunk misinformation (Fake News) targeting the Hispanic community in the United States, specifically in the Hudson Valley area.
+**Sutita Rimay** is an advanced Artificial Intelligence platform designed to verify news through algorithmic analysis, forensic image verification, and syntactic pattern detection.
 
-Key Features
-Spanglish NLP: Optimized to understand the unique linguistic blend and cultural nuances of our local community.
+## 🚀 Overview
+Featured at **Media Party New York 2024 (Columbia University)**, this project aims to empower bilingual communities by filtering out "fake news" and synthetic media attacks.
 
-Visual Forensic Analysis: Toolset to identify manipulated media and "fake" screenshots (like the Epstein/De Soto hoax).
+## 🛠️ Key Features
+* **Forensic Analysis:** Detects image and video alterations.
+* **Syntactic Verification:** Analyzes text structures to identify bot-generated content.
+* **Metadata Tracking:** Verifies authorship and source reliability.
+* **ODS Alignment:** Supports 6 of the 17 UN Sustainable Development Goals.
 
-Actionable Truth: Every verified fact comes with a "What to do next" guide to empower the user.
+## 👨‍💻 Author
+**Elvis Franks Herrada Erquiaga**
+*Investigative Journalist | News Product Leader | Fellow ICFJ*
 
-Integration
-This engine works as the "truth filter" for Hispabot. Before our AI assistant provides a resource, it ensures the information is verified through Sutita Rimay's logic.
+---
+*Noticias que te empoderan - De la información a la acción.*
