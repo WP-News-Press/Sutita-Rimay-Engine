@@ -1,27 +1,34 @@
-# Sutita Rimay: AI Platform for Forensic Fact-Checking & Civic Action 🛡️🏛️
+# 🛡️ SUTITA RIMAY ENGINE | HEFE NETWORK INTELLIGENCE
+**Forensic AI for Action Journalism & Real-Time Verification**
 
-**Sutita Rimay** is a cutting-edge Artificial Intelligence platform designed to combat disinformation through algorithmic analysis, forensic verification, and syntactic pattern detection. 
-
-Developed by **Elvis Franks Herrada Erquiaga**, an investigative journalist with 28 years of experience dismantling criminal organizations, this project transforms "Action Journalism" into a scalable technological tool.
-
-## 🚀 Key Innovation
-Unlike standard fact-checkers, Sutita Rimay doesn't just scan keywords. It uses:
-* **Syntactic Verification:** To detect bot-generated content and coordinated synthetic attacks.
-* **Forensic Image/Video Analysis:** To identify metadata alterations and deepfakes.
-* **Network Mapping:** Leveraging investigative techniques learned in the field to track the financing of disinformation.
-
-## 🏆 International Backing & Recognition
-* **Media Party New York 2024:** Featured project at Columbia University.
-* **ICFJ & Knight Center Fellow:** Developed under the mentorship of Giannina Segnini and Craig Silverman (Disarming Disinformation program).
-* **Rocket-U (Mexico) & Incuba Lima:** Winner of acceleration and social impact bootcamps.
-* **UN ODS Alignment:** Directly supporting 6 of the 17 Sustainable Development Goals.
-
-## 👤 About the Author
-**Elvis Franks Herrada Erquiaga** *Investigative Journalist | News Product Leader | Civic Tech Pioneer* Currently in exile in New York, Elvis has led investigations that resulted in the dismantling of major criminal networks (Operation Barrio King) and served as Editor-in-Chief of innovative outlets like *Diario El Sombrero* (the first bilingual Quechua-Spanish newspaper in Lima).
-
-## 🛠️ Tech Stack & Methodology
-* **Language:** Python / JavaScript.
-* **Focus:** AI Forensics, Machine Learning for Fact-checking, and Community Empowerment.
+### 🚀 OVERVIEW
+Sutita Rimay is our specialized engine designed to detect synthetic narratives and disinformation. Powered by Google AI Studio, it serves as the technological backbone for **WP News** to protect the Westchester community from fake news.
 
 ---
-**White Plains News: Noticias que te empoderan — De la información a la acción.**
+
+### 📸 THE FORENSIC VERIFICATION PROCESS
+
+#### 1. The Core Assistant
+This is the heart of the engine, designed to be an empathetic yet rigorous ally for information verification.
+![Sutita Introduction](./sutita_intro.png)
+
+#### 2. Forensic Analysis in Action
+Sutita processing complex text to identify hidden agendas and potential disinformation patterns.
+![Sutita Analysis](./sutita_analysis.png)
+
+#### 3. Verification & Risk Assessment
+The engine provides a clear risk indicator, empowering the user to identify potential threats in the narrative.
+![Sutita Result](./sutita_result.png)
+
+#### 4. Final Intelligent Report
+The final output: A detailed forensic breakdown ready for editorial action and community alerts.
+![Sutita Report](./sutita_report.png)
+
+---
+
+### 🏛️ STRATEGIC BACKING
+* **Project Lead:** Elvis Herrada (Missouri RJI Fellow 2026).
+* **Affiliation:** Member of the News Product Alliance (NPA).
+* **Methodology:** Gemas – Transforming information into direct community action.
+
+**White Plains News, noticias que te empoderan.**
