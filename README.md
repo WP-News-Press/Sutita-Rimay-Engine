@@ -52,22 +52,23 @@ The final output: A detailed forensic breakdown and manual of action ready for e
 * **Methodology:** Gemas – Transforming information into direct community action.
 
 **White Plains News, noticias que te empoderan.** 🏛️📈
-MISSION & VISION: DEMOCRATIZING DIGITAL DEFENSE 🛡️🤖
+
+**MISSION & VISION: DEMOCRATIZING DIGITAL DEFENSE** 🛡️🤖
 
 Sutita Rimay 2.0 is not just a tool; it is a Democratic Defense System designed to dismantle the psychological structures of digital deception. Our mission is to evolve from traditional fact-checking into a Proactive Citizen Protection Service.
 
-The Three-Layer Infrastructure:
+**The Three-Layer Infrastructure**:
 
-Forensic Web Portal: Real-time analysis of URLs and multimedia using GIJN standards to detect voice cloning and deepfakes.
+**Forensic Web Portal**: Real-time analysis of URLs and multimedia using GIJN standards to detect voice cloning and deepfakes.
 
-Floating AI Assistant: A friendly "Digital Brain" providing cognitive vaccines to citizens to identify scams before they become victims.
+**Floating AI Assistant**: A friendly "Digital Brain" providing cognitive vaccines to citizens to identify scams before they become victims.
 
-Mobile Application: Ensuring high-tech verification is accessible to communities that rely exclusively on smartphones.
+**Mobile Application**: Ensuring high-tech verification is accessible to communities that rely exclusively on smartphones.
 
-Core Values:
+**Core Values**:
 
-100% Open Source: Integrity should have no price tag.
+**100% Open Source**: Integrity should have no price tag.
 
-Privacy by Design: Protecting the digital sovereignty of vulnerable immigrant populations.
+**Privacy by Design**: Protecting the digital sovereignty of vulnerable immigrant populations.
 
-Human-in-the-Loop: AI-native infrastructure where the journalist remains the final arbiter of truth.
+**Human-in-the-Loop**: AI-native infrastructure where the journalist remains the final arbiter of truth.
